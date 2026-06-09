@@ -23,12 +23,7 @@ Dann schon ziemlich schnell das Klassendiagramm, sonst geht es unter. Wird aus d
 
 [//]: #[task][](structStructural[all])
 
-![CD](http://www.plantuml.com/plantuml/proxy?cache=no&fmt=svg&src=https://raw.githubusercontent.com/Blockly2Java/Template/main/shared_resources/cd.puml)
-
-
-
-
-
+![CD](http://www.plantuml.com/plantuml/proxy?cache=no&fmt=svg&src=https://raw.githubusercontent.com/Blockly2Java/Player/main/shared_resources/cd.puml)
 
 
 ---
