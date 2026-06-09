@@ -34,13 +34,30 @@ TODO: Vorlage beschreiben
 
 ---
 
-## Aufgaben - Der Spaziergang
+## Aufgaben
+Probiere nach jedem Schritt aus, was passiert, wenn du dein Spiel startest!
+1. Programmiere die Klasse Spieler wie im Klassendiagramm
+vorgegeben. Attribute erstellst du über Variable →
+Create variable (und anschließend Eingabe des Namens).
+→Programmiere getX() und getY() als Standard-Getter, lasse
+act() erstmal leer.
+2. Erstelle einen Konstruktor und setze dort die Koordinaten
+auf feste Werte und finde damit heraus, wie groß das
+Spielfeld ist. Den Wert setzt man so:
+3. Notiere den Programmcode von getX() und getY() auf der
+nächsten Seite.
+4. Das Spielfeld führt die Methode act() seiner Spieler-Objekte
+ca. 25x pro Sekunde aus. Finde heraus, wie du damit ein
+Spieler-Objekt auf dem Spielfeld bewegen kannst.
+5. Wie kann man die Bewegungsgeschwindigkeit des Spiel-
+ers festlegen? Probiere deine Idee im Programm aus und
+ergänze das Klassendiagramm und den Programmcode auf
+der nächsten Seite.
+6. Wie kann man zu Beginn des Spiels die Startposition des
+Spielers (bei jedem neuen Objekt woanders) festlegen? Pro-
+biere auch das wieder aus und ergänze das Klassendia-
+gramm.
 
-TODO: Aufgaben beschreiben, Beschreibungsvorlage entfernen und Artemis Tasks einfügen
-
-
-[//]: #[task][](testMain()) 
-- Du hast eine ganz tolle Aufgabe!
 
 
 ---
