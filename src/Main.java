@@ -1,9 +1,9 @@
 /**
-Erstelle dein Programm über Blockly und
-klicke auf 'Play', um es auszuführen!
-*/
+ * Erstelle dein Programm über Blockly und
+ * klicke auf 'Play', um es auszuführen!
+ */
 
-public class Main { 
+public class Main {
     /**
      * Das Hauptprogramm (main-Methode):
      * Alles, was ausgeführt werden soll,
@@ -14,6 +14,11 @@ public class Main {
      * gestartet, wenn du auf 'Play' drückst.
      */
     public static void main() {
+        Player spieler = new Player();
     }
 
 }
+
+
+// main()-Methode starten
+Main.main();

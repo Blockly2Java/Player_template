@@ -37,13 +37,11 @@ TODO: Vorlage beschreiben
 ## Aufgaben
 Probiere nach jedem Schritt aus, was passiert, wenn du dein Spiel startest!
 1. Programmiere die Klasse Spieler wie im Klassendiagramm
-vorgegeben. Attribute erstellst du über Variable →
-Create variable (und anschließend Eingabe des Namens).
-→Programmiere getX() und getY() als Standard-Getter, lasse
+vorgegeben. Programmiere getX() und getY() als Standard-Getter, lasse
 act() erstmal leer.
 2. Erstelle einen Konstruktor und setze dort die Koordinaten
 auf feste Werte und finde damit heraus, wie groß das
-Spielfeld ist. Den Wert setzt man so:
+Spielfeld ist. Hierfür musst du etwas herumprobieren.
 3. Notiere den Programmcode von getX() und getY() auf der
 nächsten Seite.
 4. Das Spielfeld führt die Methode act() seiner Spieler-Objekte

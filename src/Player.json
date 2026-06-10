@@ -1,0 +1,16 @@
+{
+  "blocks": {
+    "languageVersion": 0,
+    "blocks": [
+      {
+        "type": "gfx_extends",
+        "id": "Yw]+5uO@o8y~}-O51:%m",
+        "x": 1697,
+        "y": 2618,
+        "fields": {
+          "PARENT_CLASS": "Circle"
+        }
+      }
+    ]
+  }
+}

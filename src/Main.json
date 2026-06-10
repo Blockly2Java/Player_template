@@ -5,8 +5,8 @@
       {
         "type": "java_static_method_noreturn",
         "id": "0-~]xj!ER5LuqkjtzKSY",
-        "x": 106,
-        "y": 98,
+        "x": -74,
+        "y": -84,
         "extraState": "<mutation xmlns=\"http://www.w3.org/1999/xhtml\"></mutation>",
         "icons": {
           "comment": {
@@ -18,8 +18,42 @@
         },
         "fields": {
           "NAME": "main"
+        },
+        "inputs": {
+          "STACK": {
+            "block": {
+              "type": "java_local_var_set",
+              "id": "[8!#PyaDT`YyY[Z4Ne/O",
+              "fields": {
+                "VAR": {
+                  "id": "Xa=pa98+[tuT:)zyaVq."
+                }
+              },
+              "inputs": {
+                "VALUE": {
+                  "block": {
+                    "type": "callconstructor",
+                    "id": "FpeT=t7Hyd(;^dx6Wg]7",
+                    "extraState": {
+                      "constructorValue": "Player:::"
+                    },
+                    "fields": {
+                      "CONSTRUCTOR_CLASS": "Player:::"
+                    }
+                  }
+                }
+              }
+            }
+          }
         }
       }
     ]
-  }
+  },
+  "variables": [
+    {
+      "name": "spieler",
+      "id": "Xa=pa98+[tuT:)zyaVq.",
+      "type": "local"
+    }
+  ]
 }
