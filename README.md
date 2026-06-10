@@ -9,28 +9,18 @@
 ---
 
 
-## Aufgabe: Ein Toller Titel
+## Aufgabe: Ein kleines Spiel
 
-TODO: 1-2 Sätze allgemeines blabla, damit man sich zurecht findet.
+In dieser Aufgabe ist unser Ziel, die Grundlage für ein kleines Spiel zu legen. Dafür starten wir mit einer Spieler-Klasse, die sich bewegen kann etc. Alle anderen Objekte werden statisch auf dem Spielfeld sein.
 
----
-
-## Klassendiagramm
-
-TODO: Repository im PlantUML Pfad anpassen, Klassendiagramm im parent Repository anpassen und Blabla entfernen
-
-Dann schon ziemlich schnell das Klassendiagramm, sonst geht es unter. Wird aus den Shared resources geladen, die funktionieren überall. Die tasks werden beim Artemis export automatisch aktiviert, in normalem Markdown sind sie versteckt.
-
-[//]: #[task][](structStructural[all])
-
-![CD](http://www.plantuml.com/plantuml/proxy?cache=no&fmt=svg&src=https://raw.githubusercontent.com/Blockly2Java/Player/main/shared_resources/cd.puml)
-
+**Teil der Aufgabe ist es auch, das Arbeitsblatt auszufüllen! Dort findest du auch das Klassendiagramm.**
 
 ---
 
 ## Beschreibung - Vorlage
 
-TODO: Vorlage beschreiben
+- Die Vorlage enthält bereits eine main-Methode, die ein neues Spieler Objekte erzeugt.
+- Spieler-Objekte werden grafisch als Kreis dargestellt.
 
 ---
 
@@ -55,6 +45,9 @@ der nächsten Seite.
 Spielers (bei jedem neuen Objekt woanders) festlegen? Pro-
 biere auch das wieder aus und ergänze das Klassendia-
 gramm.
+7. Über den Toolbox-Ordner `Grafik: Objekte` kannst du in der Main 
+weitere geometrische Formen hinzufügen. Nutze das, um ein kleines 
+Spiel zu programmieren.
 
 
 
